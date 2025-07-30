@@ -137,8 +137,8 @@ header nav a{
 .container .arrows{
     display: flex;
     position: absolute;
-    bottom: 120px;
-    left: 120px;
+    bottom: 3rem;
+    left: 7.5rem;
     align-items: center;
     width: 300px;
     
